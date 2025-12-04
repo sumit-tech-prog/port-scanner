@@ -100,10 +100,3 @@ This tool is for:
 - Testing your **own systems**  
 - Authorized cybersecurity work  
 
-
----
-
-## ⭐ Support
-
-If this tool helped you, please give the project a **star** on GitHub ⭐
-
